@@ -1,0 +1,156 @@
+div.Header_
+{
+  position: relative;
+
+  height: 60px;
+  background-color: black;
+  text-align: right;
+}
+h1
+{
+  padding-top: 15px;
+  padding-right: 50px;
+  margin:0;
+}
+header
+{
+  color: white;
+  background-color: Black;
+}
+#gallery
+{
+  position: relative;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+div .f_layout
+{
+    position: relative;
+    height: 156px;
+    margin-left: 15%;
+}
+
+div .s_layout
+{
+    position: relative;
+    height: 156px;
+    margin: 0px;
+    margin-left: 15%;
+    padding-top: 10px;
+}
+div .t_layout
+{
+
+  position: relative;
+  height: 156px;
+  margin: 0px;
+  margin-left: 15%;
+  padding-top: 10px;
+
+}
+div.fo_layout
+{
+  position: relative;
+  height: 156px;
+  margin: 0px;
+  margin-left: 15%;
+  padding-top: 10px;
+}
+div.fi_layout
+{
+  position: relative;
+  height: 156px;
+  margin: 0px;
+  margin-left: 15%;
+  padding-top: 10px;
+}
+div.se_layout
+{
+  position: relative;
+  height: 156px;
+  margin: 0px;
+  margin-left: 15%;
+  padding-top: 10px;
+}
+div.e_layout
+{
+  position: relative;
+  height: 156px;
+  margin: 0px;
+  margin-left: 15%;
+  padding-top: 10px;
+}
+
+
+div.f
+{
+    width: 240px;
+    height: 150px;
+    border: 3px solid black;
+    float: left;
+    margin-right: 10px;
+    background-color: white;
+
+}
+.f p
+{
+    margin: 0px;
+    padding: 0px;
+
+}
+.f  p.oldprice
+{
+    text-decoration: line-through;
+}
+.f  p.newprice
+{
+    color: red;
+}
+
+
+div.s
+{
+    width: 240px;
+    height: 150px;
+    border: 3px solid black;
+    margin:0;
+    margin-right: 10px;
+    background-color: white;
+
+    float: left;
+}
+
+
+.s p
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+#o_p
+{
+    text-decoration: line-through;
+}
+#n_p
+{
+    color: red;
+}
+
+footer
+{
+  position: relative;
+
+  height: 40px;
+  background-color: black;
+}
+footer p
+{
+  margin: 0;
+  padding-top: 10px;
+  color:  White;
+  text-align: center;
+
+}
