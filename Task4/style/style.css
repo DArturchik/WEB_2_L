@@ -1,0 +1,41 @@
+#div_attr0
+{
+  position: absolute;
+}
+#input_attr0
+{
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+}
+#input_attr1
+{
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+}
+
+#btn_attr0
+{
+  position: relative;
+  margin: 0px;
+  margin-left: 40px;
+
+}
+
+#table_attr0
+{
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+}
+#table_attr1
+{
+  border: 2px solid black;
+}
+
+tr,td
+{
+  height: 50px;
+  width: 50px;
+}
